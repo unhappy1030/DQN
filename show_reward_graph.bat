@@ -1,0 +1,1 @@
+"C:/Users/white/anaconda3/python.exe" "C:/Users/white/Desktop/valak/Valak/Main_ValaK/DQN_project/show_reward.py"
